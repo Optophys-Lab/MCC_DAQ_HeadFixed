@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MCC_DAQ.iml" filepath="$PROJECT_DIR$/.idea/MCC_DAQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MCC_DAQ_LH.iml" filepath="$PROJECT_DIR$/.idea/MCC_DAQ_LH.iml" />
     </modules>
   </component>
 </project>
